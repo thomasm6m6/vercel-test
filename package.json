@@ -5,10 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "vite build",
-    "dev": "vite",
-    "dev:vercel": "vercel dev",
-    "dev:full": "concurrently \"npm run dev\" \"npm run dev:vercel\""
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
